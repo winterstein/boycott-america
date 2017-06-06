@@ -1,9 +1,13 @@
 
-Climate Change is a serious threat.
 
-By pulling out of the Paris Agreement, US President Donald Trump has endangered all our futures. 
-Donald Trump is not alone: many US politicians hold similar views, or are content to ignore
-the issue. We have to convince America to act. 
+Climate Change is a serious threat. For many people around the world it is already a life or death issue. 
+In sub-Saharan Africa, climate change is triggering more extreme drought[1]. In Bangladesh, rising sea levels - brought on by melting ice and warming seas - are forcing people to abandon their homes [2]. These problems will get worse. The effects of carrying on polluting without change would be catastrophic for all of us.
+
+The Paris Agreement is not perfect, but it is a major step forward. 
+The EU, China, India -- in fact every other country except for Syria and Nicaragua -- have signed the Paris Agreement. 
+
+By pulling America, the 2nd biggest emitter of greenhouse gases, out of the Paris Agreement, US President Donald Trump has endangered all our futures. 
+Donald Trump is not alone in the US: many US politicians hold similar views, or are content to ignore the issue. We have to convince America to act. 
 
 Name: 
 
@@ -33,3 +37,8 @@ We will notify these companies. You can also write to them yourself, which is th
 Note: We are not anti-American. We just need America to change: we all share the Earth's climate, 
 it is not acceptable for America to wreck the environment. This boycott will end as soon as America
 starts tackling climate change.
+
+
+[1] https://www.theguardian.com/global-development/2015/nov/23/somaliland-climate-change-drought-cyclones-life-or-death-challenge
+
+[2] https://www.theguardian.com/global-development/2017/jan/20/bangladesh-struggles-turn-tide-climate-change-sea-levels-rise-coxs-bazar
