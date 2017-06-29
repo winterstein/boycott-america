@@ -31,7 +31,7 @@ I pledge that:
 [ ] I will make an exception for American companies that are carbon-neutral.
 
 
-List some American companies you will be boycotting: (e.g. Coca-Cola)
+List some American companies you will be boycotting: (e.g. Exxon)
 
 We will notify these companies. You can also write to them yourself, which is the most effective.
 
