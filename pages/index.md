@@ -38,7 +38,7 @@
 		<center>
 			The <a href="http://unfccc.int/paris_agreement/items/9485.php">Paris Agreement</a> is not perfect, but it is a major step forward
 			<img src="img/map-paris-agreement.png">
-			<span class="muted">Original map from <a href="http://news.nationalgeographic.com/2017/06/climate-change-paris-agreement-map/">National Georgraphic</a></span>
+			<span class="muted">Original map from <a href="http://news.nationalgeographic.com/2017/06/climate-change-paris-agreement-map/" class="no-url-style">National Georgraphic</a></span>
 		</center>
 	</div>
 </div>

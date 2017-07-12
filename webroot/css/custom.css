@@ -9,6 +9,7 @@
 
 .no-url-style {
 	text-decoration: none;
+	color: inherit;
 }
 
 .justified {
