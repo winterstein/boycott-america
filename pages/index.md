@@ -1,5 +1,6 @@
 
-Climate Change is a serious threat. For many people around the world it is already a life or death issue. 
+<H2>Climate Change is a serious threat</H2><br>
+<H3>For many people around the world it is already a life or death issue</H3>
 
 In sub-Saharan Africa, climate change is triggering more extreme drought<a href="https://www.theguardian.com/global-development/2015/nov/23/somaliland-climate-change-drought-cyclones-life-or-death-challenge" class="sup">1</a>. In Bangladesh, rising sea levels - brought on by melting ice and warming seas - are forcing people to abandon their homes <a href="https://www.theguardian.com/global-development/2017/jan/20/bangladesh-struggles-turn-tide-climate-change-sea-levels-rise-coxs-bazar" class="sup">2</a>. In Britain, Europe, and the USA itself, the increase in floods and violent storms destroy people's homes, whilst heatwaves cause crop failure. Climate change is already killing an estimated 400,000 people a year<a href="http://daraint.org/wp-content/uploads/2012/09/EXECUTIVE-AND-TECHNICAL-SUMMARY.pdf" class="sup">3</a>. These problems will get worse. The effects of carrying on polluting without change would be catastrophic for all of us.
 
