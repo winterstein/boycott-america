@@ -6,3 +6,11 @@
 .emphasis {
 	font-weight: 700;
 }
+
+.no-url-style {
+	text-decoration: none;
+}
+
+.justified {
+	text-align: justify;
+}
