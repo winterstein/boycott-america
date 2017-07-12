@@ -10,18 +10,18 @@
 <div class="col-md-12">
 	<div class="col-md-offset-2 col-md-8">
 		<div class="col-md-4 no-url-style justified">
-			<a href="https://www.theguardian.com/global-development/2015/nov/23/somaliland-climate-change-drought-cyclones-life-or-death-challenge">
+			<a href="https://www.theguardian.com/global-development/2015/nov/23/somaliland-climate-change-drought-cyclones-life-or-death-challenge" class="no-url-style">
 				In sub-Saharan Africa, climate change is triggering more extreme drought
 			</a>
 		</div>
 		<div class="col-md-4 no-url-style justified">
-			<a href="https://www.theguardian.com/global-development/2017/jan/20/bangladesh-struggles-turn-tide-climate-change-sea-levels-rise-coxs-bazar">
+			<a href="https://www.theguardian.com/global-development/2017/jan/20/bangladesh-struggles-turn-tide-climate-change-sea-levels-rise-coxs-bazar" class="no-url-style">
 				In Bangladesh, rising sea levels - brought on by melting ice and warming seas - are forcing people to abandon their homes
 			</a>
 		</div>
 		<div class="col-md-4 no-url-style justified">
-			<a href="http://daraint.org/wp-content/uploads/2012/09/EXECUTIVE-AND-TECHNICAL-SUMMARY.pdf">
-				In Britain, Europe, and the USA itself, the increase in floods and violent storms destroy people's homes, whilst heatwaves cause crop failure. Climate change is already killing an estimated 400,000 people a year
+			<a href="http://daraint.org/wp-content/uploads/2012/09/EXECUTIVE-AND-TECHNICAL-SUMMARY.pdf" class="no-url-style">
+				In Britain, Europe, and the USA, the increase in floods and violent storms destroy people's homes, whilst heatwaves cause crop failure. Climate change is already killing an estimated 400,000 people a year
 			</a>
 		</div>
 	</div>
