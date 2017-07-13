@@ -116,7 +116,8 @@
 <div class="col-md-12">
 	<div class="col-md-offset-3 col-md-6">
 		<center>
-			Note: We are not anti-American -- we just need America to change! We all share the Earth's climate, it is not acceptable for America to wreck the environment. This boycott will end as soon as America starts tackling climate change.
+			Note: We are not anti-American -- we just need America to change! We all share the Earth's climate, it is not acceptable for America to wreck the environment. This boycott does not mean boycotting Americans abroad (who probably want to see change) and we do not encourage action against individuals. 
+			This boycott will end as soon as America starts tackling climate change.
 		</center>
 	</div>
 </div>
