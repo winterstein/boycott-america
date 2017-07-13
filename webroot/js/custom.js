@@ -1,12 +1,13 @@
-jQuery(function($) {
-  
-  var companyNum = 1;
-  
-  $('#addCompanyNameButton').click(addAnotherTextBox);
-  
-  function addAnotherTextBox() {
-    $("#additionalCompanies").append("<br><label>Company Name:<input type='text' id=company_" + companyNum + "' >");
+function addAnotherTextBox() {
+    $("#additionalCompanies").append(
+		"<div class='form-group form-inline'><label>Company Name:</label><input class='form-control' name='company_"+companyNum+"' type='text' id='company_0'></div>"
+	);
     companyNum += 1;
-  }
+}
+var companyNum = 1;
+
+$(function() {
+      
+  $('#addCompanyNameButton').click(addAnotherTextBox);    
   
 });
