@@ -1,17 +1,15 @@
 <div class="col-md-12">
-	<div class="col-md-offset-2 col-md-8">
-		<div class="col-md-8 border-box">
-			<center>
-				<span class="centered-text">
-					Donald Trump has put our <span class="emphasis">entire planet</span> in <span class="emphasis">danger</span>
-				</span>
-			</center>
-		</div>
-		<div class="col-md-4 border-box">
-			<center>
-				form
-			</center>
-		</div>
+	<div class="col-md-8 border-box">
+		<center>
+			<span class="centered-text">
+				<H1>Donald Trump has put our <span class="emphasis">entire planet</span> in <span class="emphasis">danger</span></H1>
+			</span>
+		</center>
+	</div>
+	<div class="col-md-4 border-box">
+		<center>
+			form
+		</center>
 	</div>
 </div>
 
