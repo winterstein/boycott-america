@@ -3,7 +3,9 @@
 		<div class="upper-box-text only-bottom-border">
 			<center>
 				<span class="centered-text">
-					<H1>Donald Trump has put our <span class="emphasis">entire planet</span> in <span class="emphasis">danger</span></H1>
+					<H1>Donald Trump has put our
+					<br>
+					<span class="emphasis">entire planet</span> in <span class="emphasis">danger</span></H1>
 				</span>
 			</center>
 		</div>
