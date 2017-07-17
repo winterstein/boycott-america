@@ -21,7 +21,7 @@
 			</center>
 		</div>
 	</div>
-	<div class="col-md-4">
+	<div class="col-md-4 only-left-border">
 		<form id="pledgeForm" method='GET' action='https://boycottamerica.soda.sh/forms-form.json'>
       		<input type='hidden' name='mlist' value='company-news'>
 				<script>document.write("<input type='hidden' name='link' value='"+window.location.protocol+'//'+window.location.host+"/thank-you.html'/>");</script>
