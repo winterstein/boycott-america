@@ -3,12 +3,11 @@
 		<center>
 			<span class="centered-text">
 				<H1>Donald Trump has put our <span class="emphasis">entire planet</span> in <span class="emphasis">danger</span></H1>
-				<br>
-				<H3>Sign the pledge to send him the message that his withdrawl from the <a href="http://unfccc.int/paris_agreement/items/9485.php" target="_blank">Paris Agreement</a> is <span class="emphasis">not okay.</span></H3>
-				<br>
 				<div class="no-url-style">
 					<H3><a href="https://www.epa.gov/ghgemissions/global-greenhouse-gas-emissions-data#Country" target="_blank">America is the 2nd biggest emitter of greenhouse gases</a>, and is also withdrawing from the Paris Agreement. US President <span class="emphasis">Donald Trump has endangered all our futures.</span> Donald Trump is not alone in the US: <a href="https://www.ofa.us/climate-change-deniers/#/" target="_blank">many US politicians hold similar views</a>, or are content to ignore the issue. <span class="emphasis">We have to convince America to act.</span></H3>
 				</div>
+				<H3>Sign the pledge to send him the message that his withdrawl from the <a href="http://unfccc.int/paris_agreement/items/9485.php" target="_blank">Paris Agreement</a> is <span class="emphasis">not okay.</span></H3>
+				<br>
 			</span>
 		</center>
 	</div>
@@ -32,19 +31,19 @@
 					</div>
 					Until the United States of America joins the international community in tackling climate change, I pledge that:
 					<br>
-					<div class="checkbox">
+					<div class="checkbox pull-left">
 						<label>
 						<input type="checkbox" name="visit" checked>
 							I will not visit the USA.
 						</label>
 					</div>
-					<div class="checkbox">
+					<div class="checkbox pull-left">
 						<label>
 							<input type="checkbox" name="buy-goods" checked>
 								I will buy American last: if there is an alternative non-US product or company available, I will choose them.
 						</label>
 					</div>
-					<div class="checkbox">
+					<div class="checkbox pull-left">
 						<label>
 							<input type="checkbox" name="invest" checked> I will not invest in America<br>
 						</label>
