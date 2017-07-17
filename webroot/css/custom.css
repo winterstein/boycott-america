@@ -29,3 +29,10 @@
 	border-width: 2px;
 	border-color: rgba(0,0,0,0.3);
 }
+
+.only-bottom-border {
+	border-top: none !important;
+	border-left: none !important;
+	border-right: none !important;
+	border-bottom: inherit;
+}
