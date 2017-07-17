@@ -8,7 +8,61 @@
 	</div>
 	<div class="col-md-4 border-box">
 		<center>
-			form
+			<form id="pledgeForm" method='GET' action='https://boycottamerica.soda.sh/forms-form.json'>
+      			<input type='hidden' name='mlist' value='company-news'>
+					<script>document.write("<input type='hidden' name='link' value='"+window.location.protocol+'//'+window.location.host+"/thank-you.html'/>");</script>
+					<div class='form-group form-inline'>
+						<label for='nameField'>Name:</label>
+						<input class='form-control' type='text' name='name' id='nameField' aria-describedby='nameHelp'>
+						<span id="nameHelp" class="help-block">This will be public. You can give a nickname if you prefer.</span>
+					</div>
+					<div class='form-group form-inline'>
+						<label for='emailField'>Email:</label>
+						<input class='form-control' type='email' name='email' id='emailField' aria-describedby='emailHelp'>
+						<span id="emailHelp" class="help-block">
+							We will not share your email address. 
+							We will use it to keep you up to date with campaign news (an email a month, and you can unsubcribe at any time).
+						</span>
+					</div>
+					Until the United States of America joins the international community in tackling climate change, I pledge that:
+					<br>
+					<div class="checkbox">
+						<label>
+						<input type="checkbox" name="visit" checked>
+							I will not visit the USA.
+						</label>
+					</div>
+					<div class="checkbox">
+						<label>
+							<input type="checkbox" name="buy-goods" checked>
+								I will buy American last: if there is an alternative non-US product or company available, I will choose them.
+						</label>
+					</div>
+					<div class="checkbox">
+						<label>
+							<input type="checkbox" name="invest" checked> I will not invest in America<br>
+						</label>
+					</div>
+					<div class="checkbox">
+						<label>
+							<input type="checkbox" name="carbon-neutral" checked> I will make an exception for American companies that are carbon-neutral
+						</label>
+					</div>			
+					<div id="pledgeFormDiv">
+						Optional: List some American companies you will be boycotting: (e.g. Exxon)			
+						<div class='form-group form-inline'>
+							<label for="company_0">Company Name:</label>
+							<input class='form-control' name="company" type='text' id='company_0'>
+						</div>
+						<div id="additionalCompanies">
+						</div>
+						<input class='btn btn-default btn-sm' id='addCompanyNameButton' type='button' value='Add Company'>				
+							<p>We will notify these companies. You can also write to them yourself, which is the most effective.</p>
+					</div>
+					<div>
+						<input class='btn btn-primary btn-lg' type='submit' value='Submit Form'>
+					</div>
+			</form>
 		</center>
 	</div>
 </div>
