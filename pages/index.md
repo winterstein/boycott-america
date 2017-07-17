@@ -17,12 +17,12 @@
 				<script>document.write("<input type='hidden' name='link' value='"+window.location.protocol+'//'+window.location.host+"/thank-you.html'/>");</script>
 				<div class='form-group form-inline'>
 					<center>
-						<input class='form-control' type='text' name='name' id='nameField' aria-describedby='nameHelp' class="only-bottom-border" placeholder="Name">
+						<input class='form-control only-bottom-border' type='text' name='name' id='nameField' aria-describedby='nameHelp' placeholder="Name">
 					</center>
 				</div>
 				<div class='form-group form-inline'>
 					<center>
-						<input class='form-control' type='email' name='email' id='emailField' aria-describedby='emailHelp' class="only-bottom-border" placeholder="Email">
+						<input class='form-control only-bottom-border' type='email' name='email' id='emailField' aria-describedby='emailHelp' placeholder="Email">
 					</center>
 				</div>
 				<span class="muted">
