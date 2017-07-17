@@ -1,5 +1,5 @@
-<div class="col-md-12">
-	<div class="col-md-8 border-box">
+<div class="col-md-12 border-box">
+	<div class="col-md-8">
 		<div class="upper-box-text only-bottom-border">
 			<center>
 				<span class="centered-text">
@@ -21,7 +21,7 @@
 			</center>
 		</div>
 	</div>
-	<div class="col-md-4 border-box">
+	<div class="col-md-4">
 		<form id="pledgeForm" method='GET' action='https://boycottamerica.soda.sh/forms-form.json'>
       		<input type='hidden' name='mlist' value='company-news'>
 				<script>document.write("<input type='hidden' name='link' value='"+window.location.protocol+'//'+window.location.host+"/thank-you.html'/>");</script>
