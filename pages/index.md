@@ -3,6 +3,8 @@
 		<center>
 			<span class="centered-text">
 				<H1>Donald Trump has put our <span class="emphasis">entire planet</span> in <span class="emphasis">danger</span></H1>
+				<br>
+				<H3>Sign the pledge to send him the message that his withdrawl from the <a href="http://unfccc.int/paris_agreement/items/9485.php" target="_blank">Paris Agreement</a> is <span class="emphasis">not okay.</span></H3>
 			</span>
 		</center>
 	</div>
