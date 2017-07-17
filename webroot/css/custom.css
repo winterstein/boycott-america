@@ -16,6 +16,16 @@
 	text-align: justify;
 }
 
+.centered-text {
+	text-align: center;
+}
+
 .muted {
 	color: rgba(0,0,0,0.3);
+}
+
+.border-box {
+	border-style: solid;
+	border-width: 2px;
+	border-color: rgba(0,0,0,0.3);
 }
