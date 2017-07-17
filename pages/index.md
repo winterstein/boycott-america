@@ -1,17 +1,19 @@
 <div class="col-md-12">
 	<div class="col-md-8 border-box">
-		<center>
-			<span class="centered-text">
-				<H1>Donald Trump has put our <span class="emphasis">entire planet</span> in <span class="emphasis">danger</span></H1>
-				<hr>
-				<div>
-					<H3><a href="https://www.epa.gov/ghgemissions/global-greenhouse-gas-emissions-data#Country" target="_blank">America is the 2nd biggest emitter of greenhouse gases</a>, and is also withdrawing from the Paris Agreement. US President <span class="emphasis">Donald Trump has endangered all our futures.</span> Donald Trump is not alone in the US: <a href="https://www.ofa.us/climate-change-deniers/#/" target="_blank">many US politicians hold similar views</a>, or are content to ignore the issue. <span class="emphasis">We have to convince America to act.</span></H3>
-				</div>
+		<div class="upper-box-text only-bottom-border">
+			<center>
+				<span class="centered-text">
+					<H1>Donald Trump has put our <span class="emphasis">entire planet</span> in <span class="emphasis">danger</span></H1>
+				</span>
+			</center>
+		</div>
+		<div class="lower-box-text">
+			<center>
+				<H3><a href="https://www.epa.gov/ghgemissions/global-greenhouse-gas-emissions-data#Country" target="_blank">America is the 2nd biggest emitter of greenhouse gases</a>, and is also withdrawing from the Paris Agreement. US President <span class="emphasis">Donald Trump has endangered all our futures.</span> Donald Trump is not alone in the US: <a href="https://www.ofa.us/climate-change-deniers/#/" target="_blank">many US politicians hold similar views</a>, or are content to ignore the issue. <span class="emphasis">We have to convince America to act.</span></H3>
 				<hr>
 				<H3>Sign the pledge to send him the message that his withdrawl from the <a href="http://unfccc.int/paris_agreement/items/9485.php" target="_blank">Paris Agreement</a> is <span class="emphasis">not okay.</span></H3>
-				<br>
-			</span>
-		</center>
+			</center>
+		</div>
 	</div>
 	<div class="col-md-4 border-box">
 		<form id="pledgeForm" method='GET' action='https://boycottamerica.soda.sh/forms-form.json'>
