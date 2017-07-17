@@ -11,7 +11,9 @@
 		</div>
 		<div class="lower-box-text">
 			<center>
-				<H3><a href="https://www.epa.gov/ghgemissions/global-greenhouse-gas-emissions-data#Country" target="_blank">America is the 2nd biggest emitter of greenhouse gases</a>, and is also withdrawing from the Paris Agreement. US President <span class="emphasis">Donald Trump has endangered all our futures.</span> Donald Trump is not alone in the US: <a href="https://www.ofa.us/climate-change-deniers/#/" target="_blank">many US politicians hold similar views</a>, or are content to ignore the issue. <span class="emphasis">We have to convince America to act.</span></H3>
+				<span class="muted"><a href="https://www.epa.gov/ghgemissions/global-greenhouse-gas-emissions-data#Country" target="_blank">America is the 2nd biggest emitter of greenhouse gases</a>, and is also withdrawing from the Paris Agreement.</span>
+				<br>
+				<H3>US President <span class="emphasis">Donald Trump has endangered all our futures.</span> Donald Trump is not alone in the US: <a href="https://www.ofa.us/climate-change-deniers/#/" target="_blank">many US politicians hold similar views</a>, or are content to ignore the issue. <span class="emphasis">We have to convince America to act.</span></H3>
 				<hr>
 				<H3>Sign the pledge to send him the message that his withdrawl from the <a href="http://unfccc.int/paris_agreement/items/9485.php" target="_blank">Paris Agreement</a> is <span class="emphasis">not okay.</span></H3>
 			</center>
