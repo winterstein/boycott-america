@@ -5,6 +5,8 @@
 				<H1>Donald Trump has put our <span class="emphasis">entire planet</span> in <span class="emphasis">danger</span></H1>
 				<br>
 				<H3>Sign the pledge to send him the message that his withdrawl from the <a href="http://unfccc.int/paris_agreement/items/9485.php" target="_blank">Paris Agreement</a> is <span class="emphasis">not okay.</span></H3>
+				<br>
+				America is the 2nd biggest emitter of greenhouse gases, and is also withdrawing from the Paris Agreement. US President <span class="emphasis">Donald Trump has endangered all our futures.</span> Donald Trump is not alone in the US: <a href="https://www.ofa.us/climate-change-deniers/#/" target="_blank">many US politicians hold similar views</a>, or are content to ignore the issue. <span class="emphasis">We have to convince America to act.</span>
 			</span>
 		</center>
 	</div>
@@ -109,13 +111,6 @@
 			The <a href="http://unfccc.int/paris_agreement/items/9485.php" target="_blank">Paris Agreement</a> is not perfect, but it is a major step forward
 			<a href="http://news.nationalgeographic.com/2017/06/climate-change-paris-agreement-map/" target="_blank"><img src="img/map-paris-agreement.png"></a>
 			<span class="muted">Original map from <a href="http://news.nationalgeographic.com/2017/06/climate-change-paris-agreement-map/" class="no-url-style" target="_blank">National Georgraphic</a></span>
-		</center>
-	</div>
-</div>
-<div class="col-md-12">
-	<div class="col-md-offset-2 col-md-8">
-		<center>
-			America is the 2nd biggest emitter of greenhouse gases, and is also withdrawing from the Paris Agreement. US President <span class="emphasis">Donald Trump has endangered all our futures.</span> Donald Trump is not alone in the US: <a href="https://www.ofa.us/climate-change-deniers/#/" target="_blank">many US politicians hold similar views</a>, or are content to ignore the issue. <span class="emphasis">We have to convince America to act.</span>
 		</center>
 	</div>
 </div>
