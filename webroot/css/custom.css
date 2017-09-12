@@ -1,0 +1,47 @@
+.sup {
+	vertical-align: super;
+	font-size: smaller;
+}
+
+.emphasis {
+	font-weight: 700;
+}
+
+.no-url-style {
+	text-decoration: none;
+	color: inherit;
+}
+
+.justified {
+	text-align: justify;
+}
+
+.centered-text {
+	text-align: center;
+}
+
+.muted {
+	color: rgba(0,0,0,0.3);
+}
+
+.border-box {
+	border-style: solid;
+	border-width: 2px;
+	border-color: rgba(0,0,0,0.3);
+}
+
+.only-bottom-border {
+	border-top: none !important;
+	border-left: none !important;
+	border-right: none !important;
+	border-bottom: 2px solid rgba(0,0,0,0.3);
+	border-radius: 0px;
+}
+
+.only-left-border {
+	border-top: none !important;
+	border-bottom: none !important;
+	border-right: none !important;
+	border-left: 2px solid rgba(0,0,0,0.3);
+	border-radius: 0px;
+}
