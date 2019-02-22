@@ -43,7 +43,7 @@
 				<div class="checkbox">
 					<label>
 					<input type="checkbox" name="visit" checked>
-						I will not visit the USA.
+						I will not visit the USA - except for states like California that are tackling climate change.
 					</label>
 				</div>
 				<div class="checkbox">
@@ -155,7 +155,7 @@
 			<div class="checkbox">
 				<label>
 					<input type="checkbox" name="visit" checked>
-					I will not visit the USA.
+					I will not visit the USA - except for states like California that are tackling climate change.
 				</label>
 			</div>
 			<div class="checkbox">
