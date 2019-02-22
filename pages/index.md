@@ -22,8 +22,7 @@
 		</div>
 	</div>
 	<div class="col-md-4 only-left-border">
-		<form id="pledgeForm" method='GET' action='https://boycottamerica.soda.sh/forms-form.json'>
-      		<input type='hidden' name='mlist' value='company-news'>
+		<form id="pledgeForm" method='GET' action='https://profiler.good-loop.com/form/boycott-america.org'>
 				<script>document.write("<input type='hidden' name='link' value='"+window.location.protocol+'//'+window.location.host+"/thank-you.html'/>");</script>
 				<div class='form-group form-inline'>
 					<center>
@@ -136,7 +135,7 @@
 		</center>
 	</div>
 	<div class="col-md-offset-2 col-md-8">
-		<form id="pledgeForm" method='GET' action='https://boycottamerica.soda.sh/forms-form.json'>
+		<form id="pledgeForm" method='GET' action='https://profiler.good-loop.com/form/boycott-america.org'>
       		<input type='hidden' name='mlist' value='company-news'>
 			<script>document.write("<input type='hidden' name='link' value='"+window.location.protocol+'//'+window.location.host+"/thank-you.html'/>");</script>
 			<div class='form-group form-inline'>
