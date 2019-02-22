@@ -72,9 +72,9 @@
 						<label for="company_0">Company Name:</label>
 						<input class='form-control' name="company" type='text' id='company_0'>
 					</div>
-					<div id="additionalCompanies">
+					<div class="additionalCompanies">
 					</div>
-					<input class='btn btn-default btn-sm' id='addCompanyNameButton' type='button' value='Add Company'>				
+					<input class='btn btn-default btn-sm addCompanyNameButton' type='button' value='Add Company'>				
 				</div>
 				<div>
 					<center>
@@ -180,9 +180,9 @@
 					<label for="company_0">Company Name:</label>
 					<input class='form-control' name="company" type='text' id='company_0'>
 				</div>
-				<div id="additionalCompanies">
+				<div class="additionalCompanies">
 				</div>
-				<input class='btn btn-default btn-sm' id='addCompanyNameButton' type='button' value='Add Company'>				
+				<input class='btn btn-default btn-sm addCompanyNameButton' type='button' value='Add Company'>				
 				<p>We will notify these companies. You can also write to them yourself, which is the most effective.</p>
 			</div>
 			<div>
