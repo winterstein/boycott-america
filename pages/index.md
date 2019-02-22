@@ -23,7 +23,7 @@
 	</div>
 	<div class="col-md-4 only-left-border">
 		<form id="pledgeForm" method='GET' action='https://profiler.good-loop.com/form/boycott-america.org'>
-				<script>document.write("<input type='hidden' name='link' value='"+window.location.protocol+'//'+window.location.host+"/thank-you.html'/>");</script>
+				<script>document.write("<input type='hidden' name='redirect' value='"+window.location.protocol+'//'+window.location.host+"/thank-you.html'/>");</script>
 				<div class='form-group form-inline'>
 					<center>
 						<input class='form-control only-bottom-border' type='text' name='name' id='nameField' aria-describedby='nameHelp' placeholder="Name">
@@ -136,8 +136,7 @@
 	</div>
 	<div class="col-md-offset-2 col-md-8">
 		<form id="pledgeForm" method='GET' action='https://profiler.good-loop.com/form/boycott-america.org'>
-      		<input type='hidden' name='mlist' value='company-news'>
-			<script>document.write("<input type='hidden' name='link' value='"+window.location.protocol+'//'+window.location.host+"/thank-you.html'/>");</script>
+			<script>document.write("<input type='hidden' name='redirect' value='"+window.location.protocol+'//'+window.location.host+"/thank-you.html'/>");</script>
 			<div class='form-group form-inline'>
 				<label for='nameField'>Name:</label>
 				<input class='form-control' type='text' name='name' id='nameField' aria-describedby='nameHelp'>
